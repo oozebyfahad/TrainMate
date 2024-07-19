@@ -1,4 +1,4 @@
-# TrainMate
+# RailwayApp
 TrainMate is a train registration system made using concepts of data structures and algorithms.
 The proposed project is a train ticketing and scheduling system, called TrainMate, which aims to provide a comprehensive and user-friendly interface for both commuters and administrators. The scope of the project includes the development of a platform that allows users to view train schedules, book tickets, and manage train routes and schedules.
 
